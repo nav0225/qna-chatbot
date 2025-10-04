@@ -184,8 +184,8 @@ Implemented comprehensive error handling:
 
 **Afternoon (4 hours): Persona System**
 Designed an extensible character system:
-```
 
+```
 class Persona:
 def __init__(self, name, style, languages, system_prompts):
 self.name = name
@@ -195,7 +195,7 @@ self.system_prompts = system_prompts
 
     def get_prompt(self, language="en", user_context=None):
         # Dynamic prompt generation based on context
-    ```
+```
 
 **Evening (2 hours): UI Polish**
 - Streamlit theming and custom CSS
@@ -246,8 +246,6 @@ self.system_prompts = system_prompts
 
 # RIGHT: Process form first, THEN display updated history
 
-```
-
 **Evening (2 hours): Deployment**
 - Streamlit Cloud deployment
 - Environment configuration
@@ -260,7 +258,6 @@ self.system_prompts = system_prompts
 
 ### 🧩 **Core Components**
 
-```
 
 graph TD
 A[User Input] --> B[ui_streamlit.py]
@@ -274,7 +271,7 @@ H --> I[Translation]
 I --> J[Session Logging]
 J --> K[UI Display]
 
-```
+
 
 ### 🔧 **Key Design Decisions**
 
