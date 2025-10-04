@@ -237,7 +237,7 @@ self.system_prompts = system_prompts
 2. **Hypothesis 2:** Streamlit rendering order → 🎯 **Found it!**
 3. **Solution:** Restructured execution flow to display history after form processing
 
-```
+
 
 
 # The breakthrough: Order matters in Streamlit!
