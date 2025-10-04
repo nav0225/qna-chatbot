@@ -1,0 +1,41 @@
+You: good morning
+AI as creative tutor: AI Error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+----------------------------------------
+You: of carrebean
+AI as pirate: Error 404: Not Found
+----------------------------------------
+You: how are you
+AI as pirate: Error 404: Not Found
+----------------------------------------
+You: hello, good morning
+AI as creative tutor: Error 404: Not Found
+----------------------------------------
+You: hellooOooO, how are you
+AI as creative tutor: Error 404: Not Found
+----------------------------------------
+You: python -u "c:\Users\Navpreet\tiny-ai-qna-bot\main.py"
+AI as creative tutor: Error 404: Not Found
+----------------------------------------
+You: how are you
+AI as creative tutor: Error 404: Not Found
+----------------------------------------
+2025-10-03 16:53:52 | Persona: pirate
+You: hello, morning
+AI as pirate: AI Error: ReplicateError Details:
+title: Insufficient credit
+status: 402
+detail: You have insufficient credit to run this model. Go to https://replicate.com/account/billing#billing to purchase credit. Once you purchase credit, please wait a few minutes before trying again.
+------------------------------------------------------------
+2025-10-03 21:28:41 | Persona: pirate
+You: python -u "c:\Users\Navpreet\tiny-ai-qna-bot\src\router_api.py"
+AI as pirate: AI Error: ReplicateError Details:
+title: Insufficient credit
+status: 402
+detail: You have insufficient credit to run this model. Go to https://replicate.com/account/billing#billing to purchase credit. Once you purchase credit, please wait a few minutes before trying again.
+------------------------------------------------------------
+2025-10-03 21:28:48 | Persona: pirate
+You: hello
+AI as pirate: AI Error: ReplicateError Details:
+status: 429
+detail: Request was throttled. Your rate limit for creating predictions is reduced to 6 requests per minute with a burst of 1 requests until you add a payment method. Your rate limit resets in ~4s.
+------------------------------------------------------------
