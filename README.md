@@ -1,4 +1,3 @@
-```markdown
 # 🤖 Tiny AI QnA Bot — My Journey from Zero to Production
 
 [![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-Streamlit%20Cloud-FF4B4B?style=for-the-badge)](https://gallan-goodiyan.streamlit.app/)
@@ -683,5 +682,4 @@ python main.py --ui
 ---
 
 **🚀 Ready to explore what's possible with AI? [Try the bot now!](https://gallan-goodiyan.streamlit.app/)**
-```
 
